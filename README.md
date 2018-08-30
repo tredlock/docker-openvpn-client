@@ -1,6 +1,6 @@
 # Docker OpenVPN Client
 
-Original idea borrowed from https://github.com/dperson/openvpn-client
+Original idea borrowed from https://github.com/ekristen/docker-openvpn-client
 
 1. You should add the generated openvpn client config to a directory, you can call it client.ovpn
 2. You should add your username and password to `client.pwd`
